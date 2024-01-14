@@ -53,7 +53,7 @@ h4:hover{
   color :#747bff;
 }
 
-button {
+/* button {
   border-radius: 8px;
   border: 1px solid transparent;
   padding: 0.6em 1.2em;
@@ -69,8 +69,9 @@ button:hover {
 }
 button:focus,
 button:focus-visible {
-  outline: 4px auto -webkit-focus-ring-color;
+  outline: 4px auto -webkit-focus-ring-color; 
 }
+  */
 
 @media (prefers-color-scheme: light) {
   :root {
