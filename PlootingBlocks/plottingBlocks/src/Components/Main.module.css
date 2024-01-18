@@ -1,0 +1,11 @@
+.main {
+    width: 68%;
+    height: 500px;
+    background-color: red;
+    margin-top: 20px;
+    display: flex;
+    padding: 30px;
+    margin-left: 250px;
+    margin-top: -398px;
+    position: relative;
+}
