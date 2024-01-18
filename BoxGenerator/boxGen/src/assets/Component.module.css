@@ -1,0 +1,7 @@
+.div {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    width: fit-content;
+    flex-direction: row-reverse;
+}

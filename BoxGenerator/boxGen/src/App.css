@@ -1,0 +1,23 @@
+form{
+    display: flex;
+    align-items: center;
+}
+form > *{
+    margin-right: 20px;
+    font-size: 2em;
+}
+
+label + input{
+    border-radius: 10px;
+    border: none;
+    background-color: lightgray;
+    color: rgb(32, 32, 32);
+}
+
+input + input {
+    padding: 5px 15px ;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    background-color: white;
+    font-size: 1.5em;
+}
