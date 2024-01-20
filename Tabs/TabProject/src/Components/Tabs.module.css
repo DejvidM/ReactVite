@@ -1,0 +1,29 @@
+p{
+    height: 200px;
+    width: 500px;
+    border: 1px solid #211e1e;
+    margin: 0px auto;
+    margin-top: 100px;
+    padding: 10px;
+    font-size: 1.2em;
+}
+label{
+    border: 1px solid #a19696;
+    padding: 10px 30px;
+    font-size: 1.5em;
+    position: relative;
+}
+.div {
+    display: flex;
+    width: fit-content;
+    margin: 0px auto;
+}
+.div label {
+    margin-inline: 20px;
+}
+
+.clicked {
+    background-color: #3f3e3e;
+    color: whitesmoke;
+    transition: .5s ease-out;
+}
